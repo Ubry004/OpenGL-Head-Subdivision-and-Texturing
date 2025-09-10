@@ -3,6 +3,8 @@ Note that the low framerate is simply because of limitations with ezgif(.)com. T
 
 ![](./DEMO.gif)
 
+Head model loaded with ASSIMP
+
 Perspective View
 - The scene is drawn with a perspective camera that mimics how our eyes perceive
 depth with a 45 degree field of view and near/far clipping planes (0.1 units and
